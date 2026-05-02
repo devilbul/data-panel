@@ -587,7 +587,7 @@
   },
   {
     "warframe": "Follie",
-    "icon_url": "https://cdn.pandaahh.fr/images/builds/8e871c4b-e128-47cc-ac25-ec92a919230d.webp",
+    "icon_url": "https://raw.githubusercontent.com/devilbul/data-panel/refs/heads/main/follie.png",
     "builds": {
       "warframe": [
         {
@@ -1738,7 +1738,7 @@
   },
   {
     "warframe": "Nokko",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Nokko_Thumb.png/300px-Nokko_Thumb.png?34082",
+    "icon_url": "https://raw.githubusercontent.com/devilbul/data-panel/refs/heads/main/nokko.png",
     "builds": {
       "warframe": [
         {
@@ -2031,7 +2031,7 @@
   },
   {
     "warframe": "Oraxia",
-    "icon_url": "https://wiki.warframe.com/images/Oraxia_Thumb.png?f2ec1",
+    "icon_url": "https://raw.githubusercontent.com/devilbul/data-panel/refs/heads/main/oraxia.png",
     "builds": {
       "warframe": [
         {
@@ -2403,7 +2403,7 @@
   },
   {
     "warframe": "Temple",
-    "icon_url": "https://wiki.warframe.com/images/Temple_Thumb.png?1e14f",
+    "icon_url": "https://raw.githubusercontent.com/devilbul/data-panel/refs/heads/main/temple.png",
     "builds": {
       "warframe": [
         {
@@ -2557,7 +2557,7 @@
   },
   {
     "warframe": "Uriel",
-    "icon_url": "https://wiki.warframe.com/images/Uriel_Thumb.png?08d7b",
+    "icon_url": "https://raw.githubusercontent.com/devilbul/data-panel/refs/heads/main/uriel.png",
     "builds": {
       "warframe": [
         {
