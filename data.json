@@ -604,49 +604,49 @@
       "values": [
         {
           "part": "Blueprint",
-          "mission": "£string$follie_hunt£",
+          "mission": "£strings$follie_hunt£",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Blueprint",
-          "mission": "£string$follie_hunt£ (SP)",
+          "mission": "£strings$follie_hunt£ (SP)",
           "node": "venus",
           "drop": "6%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$follie_hunt£",
+          "mission": "£strings$follie_hunt£",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$follie_hunt£ (SP)",
+          "mission": "£strings$follie_hunt£ (SP)",
           "node": "venus",
           "drop": "6%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$follie_hunt£",
+          "mission": "£strings$follie_hunt£",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$follie_hunt£ (SP)",
+          "mission": "£strings$follie_hunt£ (SP)",
           "node": "venus",
           "drop": "6%"
         },
         {
           "part": "Systems",
-          "mission": "£string$follie_hunt£",
+          "mission": "£strings$follie_hunt£",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Systems",
-          "mission": "£string$follie_hunt£ (SP)",
+          "mission": "£strings$follie_hunt£ (SP)",
           "node": "venus",
           "drop": "6%"
         }
@@ -1755,109 +1755,109 @@
       "values": [
         {
           "part": "Blueprint",
-          "mission": "£string$weed_gardens£, Rot C",
+          "mission": "£strings$weed_gardens£, Rot C",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Blueprint",
-          "mission": "£string$weed_gardens£, Rot C (SP)",
+          "mission": "£strings$weed_gardens£, Rot C (SP)",
           "node": "venus",
           "drop": "8%"
         },
         {
           "part": "Blueprint",
-          "mission": "£string$critter_liberation£, Rot C",
+          "mission": "£strings$critter_liberation£, Rot C",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Blueprint",
-          "mission": "£string$critter_liberation£, Rot C (SP)",
+          "mission": "£strings$critter_liberation£, Rot C (SP)",
           "node": "venus",
           "drop": "8%"
         },
         {
           "part": "Blueprint",
-          "mission": "£string$corporate_restructuring£, Rot C",
+          "mission": "£strings$corporate_restructuring£, Rot C",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Blueprint",
-          "mission": "£string$corporate_restructuring£, Rot C (SP)",
+          "mission": "£strings$corporate_restructuring£, Rot C (SP)",
           "node": "venus",
           "drop": "8%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$weed_gardens£, Rot B",
+          "mission": "£strings$weed_gardens£, Rot B",
           "node": "venus",
           "drop": "2.5%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$weed_gardens£, Rot C",
+          "mission": "£strings$weed_gardens£, Rot C",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$weed_gardens£, Rot B (SP)",
+          "mission": "£strings$weed_gardens£, Rot B (SP)",
           "node": "venus",
           "drop": "10%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$weed_gardens£, Rot C (SP)",
+          "mission": "£strings$weed_gardens£, Rot C (SP)",
           "node": "venus",
           "drop": "10%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$critter_liberation£, Rot B",
+          "mission": "£strings$critter_liberation£, Rot B",
           "node": "venus",
           "drop": "2.5%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$critter_liberation£, Rot C",
+          "mission": "£strings$critter_liberation£, Rot C",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$critter_liberation£, Rot B (SP)",
+          "mission": "£strings$critter_liberation£, Rot B (SP)",
           "node": "venus",
           "drop": "10%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$critter_liberation£, Rot C (SP)",
+          "mission": "£strings$critter_liberation£, Rot C (SP)",
           "node": "venus",
           "drop": "10%"
         },
         {
           "part": "Systems",
-          "mission": "£string$corporate_restructuring£, Rot B",
+          "mission": "£strings$corporate_restructuring£, Rot B",
           "node": "venus",
           "drop": "2.50%"
         },
         {
           "part": "Systems",
-          "mission": "£string$corporate_restructuring£, Rot C",
+          "mission": "£strings$corporate_restructuring£, Rot C",
           "node": "venus",
           "drop": "5%"
         },
         {
           "part": "Systems",
-          "mission": "£string$corporate_restructuring£, Rot B (SP)",
+          "mission": "£strings$corporate_restructuring£, Rot B (SP)",
           "node": "venus",
           "drop": "10%"
         },
         {
           "part": "Systems",
-          "mission": "£string$corporate_restructuring£, Rot C (SP)",
+          "mission": "£strings$corporate_restructuring£, Rot C (SP)",
           "node": "venus",
           "drop": "10%"
         }
@@ -2048,25 +2048,25 @@
       "values": [
         {
           "part": "Blueprint",
-          "mission": "£string$isleweaver£",
+          "mission": "£strings$isleweaver£",
           "node": "duviri",
           "drop": "7.69%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$isleweaver ",
+          "mission": "£strings$isleweaver ",
           "node": "duviri",
           "drop": "7.69%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$isleweaver£",
+          "mission": "£strings$isleweaver£",
           "node": "duviri",
           "drop": "7.69%"
         },
         {
           "part": "Systems",
-          "mission": "£string$isleweaver£",
+          "mission": "£strings$isleweaver£",
           "node": "duviri",
           "drop": "7.69%"
         }
@@ -2420,73 +2420,73 @@
       "values": [
         {
           "part": "Blueprint",
-          "mission": "£string$solstice£, Rot A",
+          "mission": "£strings$solstice£, Rot A",
           "node": "hollvania",
           "drop": "0.97%"
         },
         {
           "part": "Blueprint",
-          "mission": "£string$solstice£, Rot B",
+          "mission": "£strings$solstice£, Rot B",
           "node": "hollvania",
           "drop": "1.98%"
         },
         {
           "part": "Blueprint",
-          "mission": "£string$solstice£, Rot C",
+          "mission": "£strings$solstice£, Rot C",
           "node": "hollvania",
           "drop": "4.58%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$solstice£, Rot A",
+          "mission": "£strings$solstice£, Rot A",
           "node": "hollvania",
           "drop": "0.97%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$solstice£, Rot B",
+          "mission": "£strings$solstice£, Rot B",
           "node": "hollvania",
           "drop": "1.98%"
         },
         {
           "part": "Neuroptics",
-          "mission": "£string$solstice£, Rot C",
+          "mission": "£strings$solstice£, Rot C",
           "node": "hollvania",
           "drop": "4.58%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$solstice£, Rot A",
+          "mission": "£strings$solstice£, Rot A",
           "node": "hollvania",
           "drop": "0.97%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$solstice£, Rot B",
+          "mission": "£strings$solstice£, Rot B",
           "node": "hollvania",
           "drop": "1.98%"
         },
         {
           "part": "Chassis",
-          "mission": "£string$solstice£, Rot C",
+          "mission": "£strings$solstice£, Rot C",
           "node": "hollvania",
           "drop": "4.58%"
         },
         {
           "part": "Systems",
-          "mission": "£string$solstice£, Rot A",
+          "mission": "£strings$solstice£, Rot A",
           "node": "hollvania",
           "drop": "0.97%"
         },
         {
           "part": "Systems",
-          "mission": "£string$solstice£, Rot B",
+          "mission": "£strings$solstice£, Rot B",
           "node": "hollvania",
           "drop": "1.98%"
         },
         {
           "part": "Systems",
-          "mission": "£string$solstice£, Rot C",
+          "mission": "£strings$solstice£, Rot C",
           "node": "hollvania",
           "drop": "4.58%"
         }
