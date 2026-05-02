@@ -106,6 +106,18 @@
   "zariman": { "fr": "Zariman", "en": "Zariman" },
   "duviri": { "fr": "Duviri", "en": "Duviri" },
   "whispers_walls": { "fr": "Murmures dans les Murs", "en": "Whispers in the Walls" },
-  "deimons_sanctum": { "fr": "Deimos - Sanctum Anatomica", "en": "Deimos - Sanctum Anatomica" },
-  "kahl": { "fr": "Garnison de Kahl", "en": "Kahl's Garrison" }
+  "deimos_sanctum": { "fr": "Deimos - Sanctum Anatomica", "en": "Deimos - Sanctum Anatomica" },
+  "kahl": { "fr": "Garnison de Kahl", "en": "Kahl's Garrison" },
+  "saya": { "fr": "Visions de Saya", "en": "Saya's Visions" },
+  "hollvania": { "fr": "Hollvania", "en": "Hollvania" },
+  "solstice": { "fr": "La place du Solstice", "en": "Solstice Square" },
+  "isleweaver": { "fr": "La toile insulaire", "en": "Isleweaver Spiral" },
+  "weed_gardens": { "fr": "Arracher les mauvaises herbes", "en": "Weed The Gardens" },
+  "critter_liberation": { "fr": "Libération des créatures", "en": "Critter Liberation" },
+  "corporate_restructuring": { "fr": "Restructuration d'entreprise", "en": "Corporate Restructuring" },
+  "dark_refractory": { "fr": "Ténèbres Réfractraires", "en": "Dark Refractory" },
+  "vesper": { "fr": "Relais Vesper", "en": "Vesper Relay" },
+  "follie_hunt": { "fr": "La chasse de Follie", "en": "Follie's Hunt" }
 }
+
+
