@@ -160,7 +160,7 @@
       ]
     },
     "parts": {
-      "type": "syndicate",
+      "type": "drop",
       "values": [
         { "part": "Neuroptics", "mission": "Tier 4, lvl 75-80", "node": "hollvania", "drop": "11.63%" },
         { "part": "Chassis", "mission": "Tier 3, lvl 65-70", "node": "hollvania", "drop": "12.20%" },
