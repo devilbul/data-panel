@@ -2,48 +2,42 @@
   { "warframe": "" },
   {
     "warframe": "Ash",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0d/AshIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/AshIcon272.png/64px-AshIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48968", "name": { "fr": "Général", "en": "General" }  },
-        { "url": "https://overframe.gg/build/48974", "name": { "fr": "Tempête de Lame", "en": "Blade Storm" }  },
-        { "url": "https://overframe.gg/build/242480", "name": { "fr": "Tranchant", "en": "Slash" }  },
-        { "url": "https://overframe.gg/build/68254", "name": { "fr": "Perturbation", "en": "Disruption" }  }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/ash",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
-        { "part": "Neuroptics", "mission": "Arva Vector", "node": "neptune_proxima", "drop": "8.51%"},
-        { "part": "Neuroptics", "mission": "Enkidu Ice Drifts", "node": "neptune_proxima", "drop": "8.33%"},
-        { "part": "Chassis", "mission": "Obol Crossing", "node": "pluto_proxima", "drop": "10.26%"},
-        { "part": "Chassis", "mission": "Fenton's Field", "node": "pluto_proxima", "drop": "8.33%"},
-        { "part": "Systems", "mission": "Falling Glory", "node": "venus_proxima", "drop": "10.53%"},
-        { "part": "Systems", "mission": "Luckless Expanse", "node": "venus_proxima", "drop": "8.33%"}
+        { "part": "Neuroptics", "mission": "Arva Vector", "node": "neptune_proxima", "drop": "8.51%" },
+        { "part": "Neuroptics", "mission": "Enkidu Ice Drifts", "node": "neptune_proxima", "drop": "8.33%" },
+        { "part": "Chassis", "mission": "Obol Crossing", "node": "pluto_proxima", "drop": "10.26%" },
+        { "part": "Chassis", "mission": "Fenton's Field", "node": "pluto_proxima", "drop": "8.33%" },
+        { "part": "Systems", "mission": "Falling Glory", "node": "venus_proxima", "drop": "10.53%" },
+        { "part": "Systems", "mission": "Luckless Expanse", "node": "venus_proxima", "drop": "8.33%" }
       ]
     }
   },
   {
     "warframe": "Atlas",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/01/AtlasIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/AtlasIcon272.png/64px-AtlasIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68278", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/68270", "name": { "fr": "Butin", "en": "Loot" } }
-      ],
-      "stat_stick": [
-        { "url": "https://overframe.gg/build/183983", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/atlas",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "jordas_precept"
-      },
+      "blueprint": { "type": "quest", "quest": "jordas_precept" },
       "values": [
         { "part": "Neuroptics", "mission": "£strings$jordas_golem£", "node": "eris", "drop": "38.72%" },
         { "part": "Chassis", "mission": "£strings$jordas_golem£", "node": "eris", "drop": "38.72%" },
@@ -53,32 +47,26 @@
   },
   {
     "warframe": "Banshee",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f8/BansheeIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/BansheeIcon272.png/64px-BansheeIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48111", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48110", "name": { "fr": "Sonar", "en": "Sonar" } },
-        { "url": "https://overframe.gg/build/242487", "name": { "fr": "Adaro", "en": "Adaro" } },
-        { "url": "https://overframe.gg/build/242491", "name": { "fr": "Contrôle", "en": "Controle" } },
-        { "url": "https://overframe.gg/build/242490", "name": { "fr": "Endurance", "en": "Endurance" } },
-        { "url": "https://overframe.gg/build/242488", "name": { "fr": "Liche", "en": "Lich" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/banshee",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
-    "parts": {
-      "type": "dojo",
-      "lab": "tenno"
-    }
+    "parts": { "type": "dojo", "lab": "tenno" }
   },
   {
     "warframe": "Baruuk",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/b/b5/BaruukIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/BaruukIcon272.png/64px-BaruukIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68362", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/68360", "name": { "fr": "Contrôle", "en": "Controle"} }
-      ],
-      "desert_wind": [
-        { "url": "https://overframe.gg/build/68363", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/baruuk",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
@@ -93,17 +81,18 @@
   },
   {
     "warframe": "Caliban",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/55/CalibanIcon.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/CalibanIcon.png/64px-CalibanIcon.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/caliban",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Tier Narmer, Mission 5", "node": "poe_ov", "drop": "8.11%" },
         { "part": "Neuroptics", "mission": "Tier Narmer, Mission 4", "node": "poe_ov", "drop": "5.45%" },
@@ -119,64 +108,109 @@
   },
   {
     "warframe": "Chroma",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/60/ChromaIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/ChromaIcon272.png/64px-ChromaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/242848", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48138", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/24758", "name": { "fr": "PT Seul", "en": "PT Solo" } },
-        { "url": "https://overframe.gg/build/189286", "name": { "fr": "PT Groupe", "en": "PT Squad" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/chroma",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "junction",
-      "blueprint": {
-        "type": "quest",
-        "quest": "new_strange"
-      },
+      "blueprint": { "type": "quest", "quest": "new_strange" },
       "values": [
         { "part": "Neuroptics", "mission": "junction", "node": "uranus" },
         { "part": "Chassis", "mission": "junction", "node": "neptune" },
         { "part": "Systems", "mission": "junction", "node": "pluto" }
       ]
     }
-  },{
-  "warframe": "Citrine",
-  "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/82/CitrineIcon272.png",
-  "builds": {
-    "warframe": [
-      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
-    ]
   },
-  "parts": {
-    "type": "drop",
-    "values": [
-      { "part": "Neuroptics", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
-      { "part": "Chassis", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
-      { "part": "Systems", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
-      { "part": "Blueprint", "mission": "Tyana Pass", "node": "mars", "drop": "9.3%" }
-    ]
-  }
-},{
-  "warframe": "Dagath",
-  "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/34/DagathIcon272.png",
-  "builds": {
-    "warframe": [
-      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
-    ]
-  },
-  "parts": {
-    "type": "dojo",
-    "lab": "tenno"
-  }
-},
   {
-    "warframe": "Ember",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/50/EmberIcon272.png",
+    "warframe": "Citrine",
+    "icon_url": "https://wiki.warframe.com/images/thumb/CitrineIcon272.png/64px-CitrineIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68339", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242497", "name": { "fr": "Buff", "en": "Buff" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/citrine",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "values": [
+        { "part": "Neuroptics", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
+        { "part": "Chassis", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
+        { "part": "Systems", "mission": "Tyana Pass", "node": "mars", "drop": "6.1%" },
+        { "part": "Blueprint", "mission": "Tyana Pass", "node": "mars", "drop": "9.3%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Cyte-09",
+    "icon_url": "https://wiki.warframe.com/images/thumb/Cyte-09Icon272.png/64px-Cyte-09Icon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/cyte-09",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "syndicate",
+      "values": [
+        { "part": "Neuroptics", "mission": "Tier 4, lvl 75-80", "node": "hollvania", "drop": "11.63%" },
+        { "part": "Chassis", "mission": "Tier 3, lvl 65-70", "node": "hollvania", "drop": "12.20%" },
+        { "part": "Systems", "mission": "Tier 5, lvl 85-90", "node": "hollvania", "drop": "13.33%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Dagath",
+    "icon_url": "https://wiki.warframe.com/images/thumb/DagathIcon272.png/64px-DagathIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/dagath",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": { "type": "dojo", "lab": "tenno" }
+  },
+  {
+    "warframe": "Dante",
+    "icon_url": "https://wiki.warframe.com/images/thumb/DanteIcon272.png/64px-DanteIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/dante",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "values": [
+        { "part": "Blueprint", "mission": "Armatus", "node": "deimos", "drop": "5%" },
+        { "part": "Neuroptics", "mission": "Armatus", "node": "deimos", "drop": "7.5%" },
+        { "part": "Chassis", "mission": "Armatus", "node": "deimos", "drop": "7.5%" },
+        { "part": "Systems", "mission": "Armatus", "node": "deimos", "drop": "7.5%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Ember",
+    "icon_url": "https://wiki.warframe.com/images/thumb/EmberIcon272.png/64px-EmberIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/ember",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
@@ -190,22 +224,18 @@
   },
   {
     "warframe": "Equinox",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/EquinoxIcon272.png/64px-EquinoxIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48081", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48077", "name": { "fr": "Adaro", "en": "Adaro" } },
-        { "url": "https://overframe.gg/build/48082", "name": { "fr": "Dualité", "en": "Duality" } },
-        { "url": "https://overframe.gg/build/242502", "name": { "fr": "Accélérant", "en": "Speed" } },
-        { "url": "https://overframe.gg/build/242503", "name": { "fr": "Général Provocation", "en": "General Provoke" } },
-        { "url": "https://overframe.gg/build/242504", "name": { "fr": "Provocation", "en": "Provoke" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/equinox",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "form": "day", "part": "Blueprint", "mission": "Titania", "node": "uranus", "drop": "11.28%" },
         { "form": "day", "part": "Neuroptics", "mission": "Titania", "node": "uranus", "drop": "12.91%" },
@@ -220,20 +250,18 @@
   },
   {
     "warframe": "Excalibur",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/2/2c/ExcaliburIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/ExcaliburIcon272.png/64px-ExcaliburIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68290", "name": { "fr": "Général", "en": "General" } }
-      ],
-      "exalted_blade": [
-        { "url": "https://overframe.gg/build/68293", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/excalibur",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "War", "node": "mars", "drop": "38.72%" },
         { "part": "Chassis", "mission": "War", "node": "mars", "drop": "38.72%" },
@@ -242,22 +270,44 @@
     }
   },
   {
-    "warframe": "Frost",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/d/d0/FrostIcon272.png",
+    "warframe": "Follie",
+    "icon_url": "https://wiki.warframe.com/images/thumb/Follie_Thumb.png/64px-Follie_Thumb.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48143", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48141", "name": { "fr": "Spam Bulle", "en": "Spam Globe" } },
-        { "url": "https://overframe.gg/build/242509", "name": { "fr": "Bulle", "en": "Globe" } },
-        { "url": "https://overframe.gg/build/48145", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/242511", "name": { "fr": "Buff", "en": "Buff" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/follie",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "values": [
+        { "part": "Blueprint", "mission": "£string$follie_hunt£", "node": "venus", "drop": "5%" },
+        { "part": "Blueprint", "mission": "£string$follie_hunt£ (SP)", "node": "venus", "drop": "6%" },
+        { "part": "Neuroptics", "mission": "£string$follie_hunt£", "node": "venus", "drop": "5%" },
+        { "part": "Neuroptics", "mission": "£string$follie_hunt£ (SP)", "node": "venus", "drop": "6%" },
+        { "part": "Chassis", "mission": "£string$follie_hunt£", "node": "venus", "drop": "5%" },
+        { "part": "Chassis", "mission": "£string$follie_hunt£ (SP)", "node": "venus", "drop": "6%" },
+        { "part": "Systems", "mission": "£string$follie_hunt£", "node": "venus", "drop": "5%" },
+        { "part": "Systems", "mission": "£string$follie_hunt£ (SP)", "node": "venus", "drop": "6%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Frost",
+    "icon_url": "https://wiki.warframe.com/images/thumb/FrostIcon272.png/64px-FrostIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/frost",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Exta", "node": "ceres", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Exta", "node": "ceres", "drop": "38.72%" },
@@ -267,23 +317,18 @@
   },
   {
     "warframe": "Gara",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/84/GaraIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/GaraIcon272.png/64px-GaraIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48196", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48197", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/48198", "name": { "fr": "Défense", "en": "Defense" } }
-      ],
-      "stat_stick": [
-        { "url": "https://overframe.gg/build/183982", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/gara",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "saya_s_vigil"
-      },
+      "blueprint": { "type": "quest", "quest": "saya_s_vigil" },
       "values": [
         { "part": "Neuroptics", "mission": "Tier 3, Mission 4, Rot A", "node": "earth_poe", "drop": "20.51%" },
         { "part": "Neuroptics", "mission": "Tier 3, Mission 3, Rot A", "node": "earth_poe", "drop": "8.42%" },
@@ -303,21 +348,18 @@
   },
   {
     "warframe": "Garuda",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/GarudaIcon272.png/64px-GarudaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48178", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48177", "name": { "fr": "Endurance", "en": "Endurance" } },
-        { "url": "https://overframe.gg/build/48170", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/242512", "name": { "fr": "Railjack", "en": "Railjack" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/garuda",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "vox_solaris"
-      },
+      "blueprint": { "type": "quest", "quest": "vox_solaris" },
       "values": [
         { "part": "Neuroptics", "mission": "Tier 3, Mission 4", "node": "venus_ov", "drop": "25%" },
         { "part": "Neuroptics", "mission": "Tier 3, Mission 3", "node": "venus_ov", "drop": "12.5%" },
@@ -331,19 +373,18 @@
   },
   {
     "warframe": "Gauss",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/34/GaussIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/GaussIcon272.png/64px-GaussIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48238", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48235", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/48236", "name": { "fr": "Contrôle", "en": "Controle" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/gauss",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Kappa", "node": "sedna", "drop": "7.84%" },
         { "part": "Chassis", "mission": "Kappa", "node": "sedna", "drop": "7.84%" },
@@ -353,60 +394,61 @@
   },
   {
     "warframe": "Grendel",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/18/GrendelIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/GrendelIcon272.png/64px-GrendelIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68372", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242519", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/242518", "name": { "fr": "Festin", "en": "Feast" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/grendel",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "arbitration",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "object": "locator_grendel_neuroptics", "mission": "archaeo_freighter", "type": "survie", "price": "25" },
         { "part": "Chassis", "object": "locator_grendel_chassis", "mission": "icefields_of_riddah", "type": "defense", "price": "25" },
         { "part": "Systems", "object": "locator_grendel_systems", "mission": "mine_of_karishh", "type": "excavation", "price": "25" }
       ]
     }
-  },{
-  "warframe": "Gyre",
-  "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/6d/GyreIcon272.png",
-  "builds": {
-    "warframe": [
-      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
-    ]
   },
-  "parts": {
-    "type": "drop",
-    "values": [
-      { "part": "Neuroptics", "mission": "Tier 1, lvl 50-55", "node": "zariman", "drop": "13.04%" },
-      { "part": "Chassis", "mission": "Tier 2, lvl 60-65", "node": "zariman", "drop": "13.54%" },
-      { "part": "Systems", "mission": "Tier 3, lvl 70-75", "node": "zariman", "drop": "11.90%" },
-      { "part": "Blueprint", "mission": "Tier 4, lvl 90-95", "node": "zariman", "drop": "12.99%" },
-      { "part": "Blueprint", "mission": "Tier 5, lvl 110-115", "node": "zariman", "drop": "12.99%" }
-    ]
-  }
-},
   {
-    "warframe": "Harrow",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/68/HarrowIcon272.png",
+    "warframe": "Gyre",
+    "icon_url": "https://wiki.warframe.com/images/thumb/GyreIcon272.png/64px-GyreIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68265", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242027", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/28706", "name": { "fr": "Eidolon", "en": "Eidolon" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/gyre",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "chains_of_harrow"
-      },
+      "values": [
+        { "part": "Neuroptics", "mission": "Tier 1, lvl 50-55", "node": "zariman", "drop": "13.04%" },
+        { "part": "Chassis", "mission": "Tier 2, lvl 60-65", "node": "zariman", "drop": "13.54%" },
+        { "part": "Systems", "mission": "Tier 3, lvl 70-75", "node": "zariman", "drop": "11.90%" },
+        { "part": "Blueprint", "mission": "Tier 4, lvl 90-95", "node": "zariman", "drop": "12.99%" },
+        { "part": "Blueprint", "mission": "Tier 5, lvl 110-115", "node": "zariman", "drop": "12.99%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Harrow",
+    "icon_url": "https://wiki.warframe.com/images/thumb/HarrowIcon272.png/64px-HarrowIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/harrow",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "blueprint": { "type": "quest", "quest": "chains_of_harrow" },
       "values": [
         { "part": "Neuroptics", "mission": "Pago", "node": "fortress", "drop": "16.67%" },
         { "part": "Neuroptics", "mission": "Taveuni", "node": "fortress", "drop": "12%" },
@@ -419,25 +461,18 @@
   },
   {
     "warframe": "Hildryn",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/19/HildrynIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/HildrynIcon272.png/64px-HildrynIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68344", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/68346", "name": { "fr": "Contrôle", "en": "Controle" } },
-        { "url": "https://overframe.gg/build/242035", "name": { "fr": "Support", "en": "Support" } }
-      ],
-      "balefire": [
-        { "url": "https://overframe.gg/build/68353", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/hildryn",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "syndicate",
-        "syndicate": "Vox Solaris",
-        "region": "fortuna",
-        "price": "5000"
-      },
+      "blueprint": { "type": "syndicate", "syndicate": "Vox Solaris", "region": "fortuna", "price": "5000" },
       "values": [
         { "part": "Neuroptics", "mission": "Exploiter Orb", "node": "venus_ov", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Exploiter Orb", "node": "venus_ov", "drop": "38.72%" },
@@ -447,18 +482,18 @@
   },
   {
     "warframe": "Hydroid",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/HydroidIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/HydroidIcon272.png/64px-HydroidIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48240", "name": { "fr": "Général / Butin", "en": "General/Loot" } },
-        { "url": "https://overframe.gg/build/242037", "name": { "fr": "Contrôle", "en": "Controle" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/hydroid",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Oro", "node": "earth", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Oro", "node": "earth", "drop": "38.72%" },
@@ -468,27 +503,26 @@
   },
   {
     "warframe": "Inaros",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/33/InarosIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/InarosIcon272.png/64px-InarosIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/242522", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/inaros",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
-    "parts": {
-      "type": "quest",
-      "values": { "quest": "sands_of_inaros", "origin": "sands_of_inaros_orig" }
-    }
+    "parts": { "type": "quest", "values": { "quest": "sands_of_inaros", "origin": "sands_of_inaros_orig" } }
   },
   {
     "warframe": "Ivara",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/4/4b/IvaraIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/IvaraIcon272.png/64px-IvaraIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/202796", "name": { "fr": "Carquois", "en": "Quiver" } },
-        { "url": "https://overframe.gg/build/242525", "name": { "fr": "Flèche Concentrée", "en": "Concentrated Arrow" } },
-        { "url": "https://overframe.gg/build/48149", "name": { "fr": "Butin", "en": "Loot" } },
-        { "url": "https://overframe.gg/build/48157", "name": { "fr": "Contrôle", "en": "Controle" } },
-        { "url": "https://overframe.gg/build/48152", "name": { "fr": "Espionnage", "en": "Spy" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/ivara",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
@@ -507,21 +541,35 @@
     }
   },
   {
-    "warframe": "Khora",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0f/KhoraIcon272.png",
+    "warframe": "Jade",
+    "icon_url": "https://wiki.warframe.com/images/thumb/JadeIcon272.png/64px-JadeIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48024", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48030", "name": { "fr": "Buton", "en": "Loot" } },
-        { "url": "https://overframe.gg/build/48036", "name": { "fr": "Contrôle", "en": "Controle" } },
-        { "url": "https://overframe.gg/build/48026", "name": { "fr": "Endurance", "en": "Endurance" } },
-        { "url": "https://overframe.gg/build/242527", "name": { "fr": "Endo", "en": "Endo" } }
-      ],
-      "venari": [
-        { "url": "https://overframe.gg/build/183990", "name": { "fr": "Général", "en": "General" } }
-      ],
-      "stat_stick": [
-        { "url": "https://overframe.gg/build/48041", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/jade",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "values": [
+        { "part": "Blueprint", "mission": "Brutus", "node": "uranus", "drop": "5%" },
+        { "part": "Neuroptics", "mission": "Brutus", "node": "uranus", "drop": "5%" },
+        { "part": "Chassis", "mission": "Brutus", "node": "uranus", "drop": "5%" },
+        { "part": "Systems", "mission": "Brutus", "node": "uranus", "drop": "5%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Khora",
+    "icon_url": "https://wiki.warframe.com/images/thumb/KhoraIcon272.png/64px-KhoraIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/khora",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
@@ -533,30 +581,58 @@
         { "part": "Systems", "mission": "£strings$so£, Rot C", "node": "*", "drop": "11.28%" }
       ]
     }
-  },{
-  "warframe": "Kullervo",
-  "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/c8/KullervoIcon272.png",
-  "builds": {
-    "warframe": [
-      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
-    ]
   },
-  "parts": {
-    "type": "syndicate",
-    "values": [
-      { "part": "Blueprint", "syndicate": "Acritis", "region": "duviri", "price": "15", "currency": "Kullervo_Bane" },
-      { "part": "Neuroptics", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" },
-      { "part": "Chassis", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" },
-      { "part": "Systems", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" }
-    ]
-  }
-},
   {
-    "warframe": "Lavos",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png",
+    "warframe": "Koumei",
+    "icon_url": "https://wiki.warframe.com/images/thumb/KoumeiIcon272.png/64px-KoumeiIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/146984", "name": { "fr": "Souffrance Accelérée", "en": "Expedite Suffering" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/koumei",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "values": [
+        { "part": "Blueprint", "mission": "Koumei Shrine", "node": "earth", "drop": "4.09%" },
+        { "part": "Neuroptics", "mission": "Koumei Shrine", "node": "earth", "drop": "4.09%" },
+        { "part": "Chassis", "mission": "Koumei Shrine", "node": "earth", "drop": "4.09%" },
+        { "part": "Systems", "mission": "Koumei Shrine", "node": "earth", "drop": "4.09%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Kullervo",
+    "icon_url": "https://wiki.warframe.com/images/thumb/KullervoIcon272.png/64px-KullervoIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/kullervo",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "syndicate",
+      "values": [
+        { "part": "Blueprint", "syndicate": "Acritis", "region": "duviri", "price": "15", "currency": "Kullervo_Bane" },
+        { "part": "Neuroptics", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" },
+        { "part": "Chassis", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" },
+        { "part": "Systems", "syndicate": "Acritis", "region": "duviri", "price": "9", "currency": "Kullervo_Bane" }
+      ]
+    }
+  },
+  {
+    "warframe": "Lavos",
+    "icon_url": "https://wiki.warframe.com/images/thumb/LavosIcon272.png/64px-LavosIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/lavos",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
@@ -571,38 +647,35 @@
   },
   {
     "warframe": "Limbo",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/a/a7/LimboIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/LimboIcon272.png/64px-LimboIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48987", "name": { "fr": "Portée faible", "en": "Low Range" } },
-        { "url": "https://overframe.gg/build/48988", "name": { "fr": "Portée élevée", "en": "High Range" } },
-        { "url": "https://overframe.gg/build/202813", "name": { "fr": "Torrent Dimensionnel", "en": "Rift Torrent" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/limbo",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "quest",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": { "quest": "limbo_theorem", "origin": "limbo_theorem_orig" }
     }
   },
   {
     "warframe": "Loki",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/LokiIcon272.png/64px-LokiIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48182", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48184", "name": { "fr": "Désarmement", "en": "Disarm" } },
-        { "url": "https://overframe.gg/build/48185", "name": { "fr": "Index", "en": "Index" } },
-        { "url": "https://overframe.gg/build/242529", "name": { "fr": "Téléportation", "en": "Teleport" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/loki",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Psamathe", "node": "neptune", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Psamathe", "node": "neptune", "drop": "38.72%" },
@@ -612,20 +685,18 @@
   },
   {
     "warframe": "Mag",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/89/MagIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/MagIcon272.png/64px-MagIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48261", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48188", "name": { "fr": "Décharge", "en": "Discharge" } },
-        { "url": "https://overframe.gg/build/242532", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/242533", "name": { "fr": "Contrôle", "en": "Controle" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/mag",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Illiad", "node": "phobos", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Illiad", "node": "phobos", "drop": "38.72%" },
@@ -635,20 +706,18 @@
   },
   {
     "warframe": "Mesa",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/08/MesaIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/MesaIcon272.png/64px-MesaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48213", "name": { "fr": "Général", "en": "General" } }
-      ],
-      "regulators": [
-        { "url": "https://overframe.gg/build/48215", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/mesa",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "£strings$mutalist_alad_v£", "node": "eris", "drop": "38.72%" },
         { "part": "Chassis", "mission": "£strings$mutalist_alad_v£", "node": "eris", "drop": "38.72%" },
@@ -658,39 +727,35 @@
   },
   {
     "warframe": "Mirage",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/MirageIcon272.png/64px-MirageIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48222", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48223", "name": { "fr": "Buffer", "en": "Buffer" } },
-        { "url": "https://overframe.gg/build/48220", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/242541", "name": { "fr": "AoE Buff", "en": "Nuke Buff" } },
-        { "url": "https://overframe.gg/build/202805", "name": { "fr": "Garde Prismatique", "en": "Prism Guard" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/mirage",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "quest",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": { "quest": "hidden_message" }
     }
   },
   {
     "warframe": "Nekros",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8b/NekrosIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/NekrosIcon272.png/64px-NekrosIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/242552", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48117", "name": { "fr": "Buton", "en": "Loot" } },
-        { "url": "https://overframe.gg/build/242553", "name": { "fr": "Boss", "en": "Boss" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/nekros",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Magnacidium", "node": "deimos", "drop": "33.33%" },
         { "part": "Chassis", "mission": "Magnacidium", "node": "deimos", "drop": "33.33%" },
@@ -700,37 +765,31 @@
   },
   {
     "warframe": "Nezha",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/e/ee/NezhaIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/NezhaIcon272.png/64px-NezhaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48204", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48207", "name": { "fr": "Contrôle", "en": "Controle" } },
-        { "url": "https://overframe.gg/build/48206", "name": { "fr": "Halo", "en": "Halo" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/nezha",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
-    "parts": {
-      "type": "dojo",
-      "lab": "tenno"
-    }
+    "parts": { "type": "dojo", "lab": "tenno" }
   },
   {
     "warframe": "Nidus",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/5e/NidusIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/NidusIcon272.png/64px-NidusIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48118", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/183891", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/48120", "name": { "fr": "Larve", "en": "Larva" } },
-        { "url": "https://overframe.gg/build/48119", "name": { "fr": "Endurance", "en": "Endurance" } },
-        { "url": "https://overframe.gg/build/242558", "name": { "fr": "Lien", "en": "Link" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/nidus",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "glast_gambit"
-      },
+      "blueprint": { "type": "quest", "quest": "glast_gambit" },
       "values": [
         { "part": "Neuroptics", "mission": "Oestrus, Rot C", "node": "eris", "drop": "14.29%" },
         { "part": "Chassis", "mission": "Oestrus, Rot C", "node": "eris", "drop": "14.29%" },
@@ -739,23 +798,54 @@
     }
   },
   {
-    "warframe": "Nova",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/4/40/NovaIcon272.png",
+    "warframe": "Nokko",
+    "icon_url": "https://wiki.warframe.com/images/thumb/Nokko_Thumb.png/64px-Nokko_Thumb.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48076", "name": { "fr": "Speedrun", "en": "Speedrun" } },
-        { "url": "https://overframe.gg/build/48074", "name": { "fr": "Accélérant", "en": "Speed" } },
-        { "url": "https://overframe.gg/build/48073", "name": { "fr": "Ralentissant", "en": "Slow" } },
-        { "url": "https://overframe.gg/build/242562", "name": { "fr": "Portée élevée / Accélérant", "en": "Max Range Speed" } },
-        { "url": "https://overframe.gg/build/242565", "name": { "fr": "Buff / Ralentissant", "en": "Slow Buff" } },
-        { "url": "https://overframe.gg/build/242563", "name": { "fr": "Eidolon", "en": "Eidolon" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/nokko",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "values": [
+        { "part": "Blueprint", "mission": "£string$weed_gardens£, Rot C", "node": "venus", "drop": "5%" },
+        { "part": "Blueprint", "mission": "£string$weed_gardens£, Rot C (SP)", "node": "venus", "drop": "8%" },
+        { "part": "Blueprint", "mission": "£string$critter_liberation£, Rot C", "node": "venus", "drop": "5%" },
+        { "part": "Blueprint", "mission": "£string$critter_liberation£, Rot C (SP)", "node": "venus", "drop": "8%" },
+        { "part": "Blueprint", "mission": "£string$corporate_restructuring£, Rot C", "node": "venus", "drop": "5%" },
+        { "part": "Blueprint", "mission": "£string$corporate_restructuring£, Rot C (SP)", "node": "venus", "drop": "8%" },
+        { "part": "Neuroptics", "mission": "£string$weed_gardens£, Rot B", "node": "venus", "drop": "2.5%" },
+        { "part": "Neuroptics", "mission": "£string$weed_gardens£, Rot C", "node": "venus", "drop": "5%" },
+        { "part": "Neuroptics", "mission": "£string$weed_gardens£, Rot B (SP)", "node": "venus", "drop": "10%" },
+        { "part": "Neuroptics", "mission": "£string$weed_gardens£, Rot C (SP)", "node": "venus", "drop": "10%" },
+        { "part": "Chassis", "mission": "£string$critter_liberation£, Rot B", "node": "venus", "drop": "2.5%" },
+        { "part": "Chassis", "mission": "£string$critter_liberation£, Rot C", "node": "venus", "drop": "5%" },
+        { "part": "Chassis", "mission": "£string$critter_liberation£, Rot B (SP)", "node": "venus", "drop": "10%" },
+        { "part": "Chassis", "mission": "£string$critter_liberation£, Rot C (SP)", "node": "venus", "drop": "10%" },
+        { "part": "Systems", "mission": "£string$corporate_restructuring£, Rot B", "node": "venus", "drop": "2.50%" },
+        { "part": "Systems", "mission": "£string$corporate_restructuring£, Rot C", "node": "venus", "drop": "5%" },
+        { "part": "Systems", "mission": "£string$corporate_restructuring£, Rot B (SP)", "node": "venus", "drop": "10%" },
+        { "part": "Systems", "mission": "£string$corporate_restructuring£, Rot C (SP)", "node": "venus", "drop": "10%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Nova",
+    "icon_url": "https://wiki.warframe.com/images/thumb/NovaIcon272.png/64px-NovaIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/nova",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Naamah", "node": "europa", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Naamah", "node": "europa", "drop": "38.72%" },
@@ -765,18 +855,18 @@
   },
   {
     "warframe": "Nyx",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/9/93/NyxIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/NyxIcon272.png/64px-NyxIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/202809", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48230", "name": { "fr": "Dojo", "en": "Dojo" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/nyx",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "£strings$phorid£", "node": "any", "drop": "38.72%" },
         { "part": "Chassis", "mission": "£strings$phorid£", "node": "any", "drop": "38.72%" },
@@ -786,21 +876,18 @@
   },
   {
     "warframe": "Oberon",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/1c/OberonIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/OberonIcon272.png/64px-OberonIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48232", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242567", "name": { "fr": "Général Tank", "en": "General Tank" } },
-        { "url": "https://overframe.gg/build/28778", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/242571", "name": { "fr": "Phénix Buff", "en": "Phoenix Buff" } },
-        { "url": "https://overframe.gg/build/242572", "name": { "fr": "AoE", "en": "Nuke" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/oberon",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "£strings$any£ (Grineer, cache)", "node": "veil_proxima", "drop": "10%" },
         { "part": "Chassis", "mission": "£strings$any£ (cache)", "node": "saturn_proxima", "drop": "10%" },
@@ -810,64 +897,60 @@
   },
   {
     "warframe": "Octavia",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/7/7f/OctaviaIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/OctaviaIcon272.png/64px-OctaviaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/242575", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242577", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/242578", "name": { "fr": "Seul", "en": "Solo" } },
-        { "url": "https://overframe.gg/build/242574", "name": { "fr": "Simaris", "en": "Simaris" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/octavia",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "octavia_s_anthem"
-      },
+      "blueprint": { "type": "quest", "quest": "octavia_s_anthem" },
       "values": [
         { "part": "Neuroptics", "mission": "Terrorem, Rot C", "node": "deimos", "drop": "22.56%" },
         { "part": "Chassis", "mission": "£strings$any£", "node": "lua", "drop": "100%" },
         { "part": "Systems", "mission": "Plato (cache)", "node": "lua", "drop": "22.56%" }
       ]
     }
-  },{
-  "warframe": "Qorvex",
-  "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png",
-  "builds": {
-    "warframe": [
-      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
-    ]
   },
-  "parts": {
-    "type": "drop",
-    "blueprint": {
-      "type": "quest",
-      "quest": "whispers_walls"
-    },
-    "values": [
-      { "part": "Neuroptics", "mission": "Tier 1, lvl 55-60", "node": "deimons_sanctum", "drop": "x%" },
-      { "part": "Chassis", "mission": "Tier 2, lvl 65-70", "node": "deimons_sanctum", "drop": "x%" },
-      { "part": "Systems", "mission": "Tier 3, lvl 75-80", "node": "deimons_sanctum", "drop": "x%" }
-    ]
-  }
-},
   {
-    "warframe": "Protea",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/63/ProteaIcon272.png",
+    "warframe": "Oraxia",
+    "icon_url": "https://wiki.warframe.com/images/thumb/OraxiaIcon272.png/64px-OraxiaIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68366", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242582", "name": { "fr": "Support", "en": "Support" } },
-        { "url": "https://overframe.gg/build/242580", "name": { "fr": "Railjack", "en": "Railjack" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/oraxia",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "deadlock_protocol"
-      },
+      "values": [
+        { "part": "Blueprint", "mission": "£string$isleweaver£", "node": "duviri", "drop": "7.69%" },
+        { "part": "Neuroptics", "mission": "£string$isleweaver ", "node": "duviri", "drop": "7.69%" },
+        { "part": "Chassis", "mission": "£string$isleweaver£", "node": "duviri", "drop": "7.69%" },
+        { "part": "Systems", "mission": "£string$isleweaver£", "node": "duviri", "drop": "7.69%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Protea",
+    "icon_url": "https://wiki.warframe.com/images/thumb/ProteaIcon272.png/64px-ProteaIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/protea",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "blueprint": { "type": "quest", "quest": "deadlock_protocol" },
       "values": [
         { "part": "Neuroptics", "mission": "Granum Crown", "node": "corpus_ship", "drop": "11%" },
         { "part": "Chassis", "mission": "Exemplar Granum Crown", "node": "corpus_ship", "drop": "11%" },
@@ -876,21 +959,40 @@
     }
   },
   {
-    "warframe": "Revenant",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/02/RevenantIcon272.png",
+    "warframe": "Qorvex",
+    "icon_url": "https://wiki.warframe.com/images/thumb/QorvexIcon272.png/64px-QorvexIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48218", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48219", "name": { "fr": "Mesmer", "en": "Mesmer" } },
-        { "url": "https://overframe.gg/build/242584", "name": { "fr": "Buff", "en": "Buff" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/qorvex",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "mask_of_the_revenant"
-      },
+      "blueprint": { "type": "quest", "quest": "whispers_walls" },
+      "values": [
+        { "part": "Neuroptics", "mission": "Tier 1, lvl 55-60", "node": "deimos_sanctum", "drop": "x%" },
+        { "part": "Chassis", "mission": "Tier 2, lvl 65-70", "node": "deimos_sanctum", "drop": "x%" },
+        { "part": "Systems", "mission": "Tier 3, lvl 75-80", "node": "deimos_sanctum", "drop": "x%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Revenant",
+    "icon_url": "https://wiki.warframe.com/images/thumb/RevenantIcon272.png/64px-RevenantIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/revenant",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "blueprint": { "type": "quest", "quest": "mask_of_the_revenant" },
       "values": [
         { "part": "Neuroptics", "mission": "Tier 5, Mission 5", "node": "earth_poe", "drop": "10.2%" },
         { "part": "Neuroptics", "mission": "Tier 5, Mission 4", "node": "earth_poe", "drop": "6.76%" },
@@ -905,20 +1007,18 @@
   },
   {
     "warframe": "Rhino",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8d/RhinoIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/RhinoIcon272.png/64px-RhinoIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48099", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242588", "name": { "fr": "Général Buff", "en": "General Buff" } },
-        { "url": "https://overframe.gg/build/48103", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/48105", "name": { "fr": "Piétinement", "en": "Stomp" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/rhino",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Fossa", "node": "venus", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Fossa", "node": "venus", "drop": "38.72%" },
@@ -928,22 +1028,18 @@
   },
   {
     "warframe": "Saryn",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/2/23/SarynIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/SarynIcon272.png/64px-SarynIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/202786", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48070", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/48071", "name": { "fr": "Spores", "en": "Spores" } },
-        { "url": "https://overframe.gg/build/48072", "name": { "fr": "Nuages", "en": "Clouds" } },
-        { "url": "https://overframe.gg/build/242766", "name": { "fr": "PT Groupe", "en": "PT Squad" } },
-        { "url": "https://overframe.gg/build/183909", "name": { "fr": "Pr Seul", "en": "PT Solo" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/saryn",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Merrow", "node": "sedna", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Merrow", "node": "sedna", "drop": "38.72%" },
@@ -953,86 +1049,102 @@
   },
   {
     "warframe": "Sevagoth",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0c/SevagothIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/SevagothIcon272.png/64px-SevagothIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/183954", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242738", "name": { "fr": "Linceul", "en": "Gloom" } }
-      ],
-      "shadow": [
-        { "url": "https://overframe.gg/build/183955", "name": { "fr": "Général", "en": "General" } }
-      ],
-      "claws": [
-        { "url": "https://overframe.gg/build/183957", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/sevagoth",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "call_of_the_tempestarii"
-      },
+      "blueprint": { "type": "quest", "quest": "call_of_the_tempestarii" },
       "values": [
         { "part": "Neuroptics", "mission": "£strings$void_storm£", "node": "corpus_proxima", "drop": "10%" },
         { "part": "Chassis", "mission": "£strings$void_storm£", "node": "corpus_proxima", "drop": "10%" },
         { "part": "Systems", "mission": "£strings$void_storm£", "node": "corpus_proxima", "drop": "10%" }
       ]
     }
-  },{
-  "warframe": "Styanax",
-  "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/c3/StyanaxIcon272.png",
-  "builds": {
-    "warframe": [
-      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
-    ]
   },
-  "parts": {
-    "type": "syndicate",
-    "values": [
-      { "part": "Blueprint", "syndicate": "Chipper", "region": "kahl", "price": "90", "currency": "Stock" },
-      { "part": "Neuroptics", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" },
-      { "part": "Chassis", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" },
-      { "part": "Systems", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" }
-    ]
-  }
-},
   {
-    "warframe": "Titania",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/e/e8/TitaniaIcon272.png",
+    "warframe": "Styanax",
+    "icon_url": "https://wiki.warframe.com/images/thumb/StyanaxIcon272.png/64px-StyanaxIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48981", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242744", "name": { "fr": "Général Pixia", "en": "General Pixia" } },
-        { "url": "https://overframe.gg/build/183832", "name": { "fr": "Speedrun", "en": "Speedrun" } },
-        { "url": "https://overframe.gg/build/183851", "name": { "fr": "Gauss", "en": "Gauss" } }
-      ],
-      "dex_pixia": [
-        { "url": "https://overframe.gg/build/48983", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/183838", "name": { "fr": "Speedrun", "en": "Speedrun" } },
-        { "url": "https://overframe.gg/build/48984", "name": { "fr": "Lephantis", "en": "Lephantis" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/styanax",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
-      "type": "quest",
-      "values": { "quest": "silver_grove" }
+      "type": "syndicate",
+      "values": [
+        { "part": "Blueprint", "syndicate": "Chipper", "region": "kahl", "price": "90", "currency": "Stock" },
+        { "part": "Neuroptics", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" },
+        { "part": "Chassis", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" },
+        { "part": "Systems", "syndicate": "Chipper", "region": "kahl", "price": "60", "currency": "Stock" }
+      ]
     }
   },
   {
-    "warframe": "Trinity",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f9/TrinityIcon272.png",
+    "warframe": "Temple",
+    "icon_url": "https://wiki.warframe.com/images/thumb/TempleIcon272.png/64px-TempleIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "ttps://overframe.gg/build/48094", "name": { "fr": "Général", "en": "General" } },
-        { "url": "ttps://overframe.gg/build/48092", "name": { "fr": "EV", "en": "EV" } },
-        { "url": "ttps://overframe.gg/build/242755", "name": { "fr": "EV DPS", "en": "EV DPS" } },
-        { "url": "ttps://overframe.gg/build/28725", "name": { "fr": "Eidolon", "en": "Eidolon" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/temple",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "values": [
+        { "part": "Blueprint", "mission": "£string$solstice£, Rot A", "node": "hollvania", "drop": "0.97%" },
+        { "part": "Blueprint", "mission": "£string$solstice£, Rot B", "node": "hollvania", "drop": "1.98%" },
+        { "part": "Blueprint", "mission": "£string$solstice£, Rot C", "node": "hollvania", "drop": "4.58%" },
+        { "part": "Neuroptics", "mission": "£string$solstice£, Rot A", "node": "hollvania", "drop": "0.97%" },
+        { "part": "Neuroptics", "mission": "£string$solstice£, Rot B", "node": "hollvania", "drop": "1.98%" },
+        { "part": "Neuroptics", "mission": "£string$solstice£, Rot C", "node": "hollvania", "drop": "4.58%" },
+        { "part": "Chassis", "mission": "£string$solstice£, Rot A", "node": "hollvania", "drop": "0.97%" },
+        { "part": "Chassis", "mission": "£string$solstice£, Rot B", "node": "hollvania", "drop": "1.98%" },
+        { "part": "Chassis", "mission": "£string$solstice£, Rot C", "node": "hollvania", "drop": "4.58%" },
+        { "part": "Systems", "mission": "£string$solstice£, Rot A", "node": "hollvania", "drop": "0.97%" },
+        { "part": "Systems", "mission": "£string$solstice£, Rot B", "node": "hollvania", "drop": "1.98%" },
+        { "part": "Systems", "mission": "£string$solstice£, Rot C", "node": "hollvania", "drop": "4.58%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Titania",
+    "icon_url": "https://wiki.warframe.com/images/thumb/TitaniaIcon272.png/64px-TitaniaIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/titania",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": { "type": "quest", "values": { "quest": "silver_grove" } }
+  },
+  {
+    "warframe": "Trinity",
+    "icon_url": "https://wiki.warframe.com/images/thumb/TrinityIcon272.png/64px-TrinityIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/trinity",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Hades", "node": "pluto", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Hades", "node": "pluto", "drop": "38.72%" },
@@ -1041,22 +1153,39 @@
     }
   },
   {
-    "warframe": "Valkyr",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/7/7d/ValkyrIcon272.png",
+    "warframe": "Uriel",
+    "icon_url": "https://wiki.warframe.com/images/thumb/UrielIcon272.png/64px-UrielIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48245", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48242", "name": { "fr": "Hystérie", "en": "Hysteria" } }
-      ],
-      "talons": [
-        { "url": "https://overframe.gg/build/48246", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/uriel",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "market"
-      },
+      "values": [
+        { "part": "Neuroptics", "mission": "Descendia", "node": "dark_refractory", "drop": "12.50%" },
+        { "part": "Chassis", "mission": "Descendia", "node": "dark_refractory", "drop": "12.50%" },
+        { "part": "Systems", "mission": "Descendia", "node": "dark_refractory", "drop": "12.50%" }
+      ]
+    }
+  },
+  {
+    "warframe": "Valkyr",
+    "icon_url": "https://wiki.warframe.com/images/thumb/ValkyrIcon272.png/64px-ValkyrIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/valkyr",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": {
+      "type": "drop",
+      "blueprint": { "type": "market" },
       "values": [
         { "part": "Neuroptics", "mission": "Themisto", "node": "jupiter", "drop": "38.72%" },
         { "part": "Chassis", "mission": "Themisto", "node": "jupiter", "drop": "38.72%" },
@@ -1066,70 +1195,64 @@
   },
   {
     "warframe": "Vauban",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/d/de/VaubanIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/VaubanIcon272.png/64px-VaubanIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48210", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48252", "name": { "fr": "Fléchettes", "en": "Darts" } },
-        { "url": "https://overframe.gg/build/48212", "name": { "fr": "Contrôle", "en": "Controle" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/vauban",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
-    "parts": {
-      "type": "nigthwave",
-      "blueprint": {
-        "type": "market"
-      }
-    }
-  },{
-  "warframe": "Voruna",
-  "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png",
-  "builds": {
-    "warframe": [
-      { "url": "https://overframe.gg/", "name": { "fr": "Temp", "en": "Temp" } }
-    ]
+    "parts": { "type": "nigthwave", "blueprint": { "type": "market" } }
   },
-  "parts": {
-    "type": "drop",
-    "values": [
-      { "part": "Neuroptics", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
-      { "part": "Neuroptics", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
-      { "part": "Chassis", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
-      { "part": "Chassis", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
-      { "part": "Systems", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
-      { "part": "Systems", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
-      { "part": "Blueprint", "mission": "Circulus", "node": "lua", "drop": "12.24%" },
-      { "part": "Blueprint", "mission": "Yuvarium", "node": "lua", "drop": "6.82%" }
-    ]
-  }
-},
   {
     "warframe": "Volt",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/9/95/VoltIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/VoltIcon272.png/64px-VoltIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48063", "name": { "fr": "Vitesse", "en": "Speed" } },
-        { "url": "https://overframe.gg/build/48066", "name": { "fr": "AoE", "en": "Nuke" } },
-        { "url": "https://overframe.gg/build/48053", "name": { "fr": "Eidolon Raid du Néant", "en": "Eidolon Void Strike" } },
-        { "url": "https://overframe.gg/build/183873", "name": { "fr": "Eidolon DPS", "en": "Eidolon DPS" } },
-        { "url": "https://overframe.gg/build/242774", "name": { "fr": "PT Groupe", "en": "PT Squad" } },
-        { "url": "https://overframe.gg/build/242776", "name": { "fr": "PT Seul", "en": "PT Solo" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/volt",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
+      ]
+    },
+    "parts": { "type": "dojo", "lab": "tenno" }
+  },
+  {
+    "warframe": "Voruna",
+    "icon_url": "https://wiki.warframe.com/images/thumb/VorunaIcon272.png/64px-VorunaIcon272.png",
+    "builds": {
+      "warframe": [
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/voruna",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
-      "type": "dojo",
-      "lab": "tenno"
+      "type": "drop",
+      "values": [
+        { "part": "Neuroptics", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
+        { "part": "Neuroptics", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
+        { "part": "Chassis", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
+        { "part": "Chassis", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
+        { "part": "Systems", "mission": "Circulus", "node": "lua", "drop": "8.16%" },
+        { "part": "Systems", "mission": "Yuvarium", "node": "lua", "drop": "4.55%" },
+        { "part": "Blueprint", "mission": "Circulus", "node": "lua", "drop": "12.24%" },
+        { "part": "Blueprint", "mission": "Yuvarium", "node": "lua", "drop": "6.82%" }
+      ]
     }
   },
   {
     "warframe": "Wisp",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/a/a3/WispIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/WispIcon272.png/64px-WispIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/48087", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48086", "name": { "fr": "Général Buff", "en": "General Buff" } },
-        { "url": "https://overframe.gg/build/183883", "name": { "fr": "Buff", "en": "Buff" } },
-        { "url": "https://overframe.gg/build/48085", "name": { "fr": "Eidolon", "en": "Eidolon" } },
-        { "url": "https://overframe.gg/build/242781", "name": { "fr": "PT Groupe", "en": "PT Squad" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/wisp",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
@@ -1144,38 +1267,31 @@
   },
   {
     "warframe": "Wukong",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/68/WukongIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/WukongIcon272.png/64px-WukongIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/242784", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/48225", "name": { "fr": "Fureur Primale", "en": "Primal Rage" } },
-        { "url": "https://overframe.gg/build/202807", "name": { "fr": "Index", "en": "Index" } }
-      ],
-      "iron_staff": [
-        { "url": "https://overframe.gg/build/48227", "name": { "fr": "Général", "en": "General" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/wukong",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
-    "parts": {
-      "type": "dojo",
-      "lab": "tenno"
-    }
+    "parts": { "type": "dojo", "lab": "tenno" }
   },
   {
     "warframe": "Xaku",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/b/be/XakuIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/XakuIcon272.png/64px-XakuIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/202802", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/146989", "name": { "fr": "Butin", "en": "Loot" } },
-        { "url": "https://overframe.gg/build/202804", "name": { "fr": "Endurance", "en": "Endurance" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/xaku",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "drop",
-      "blueprint": {
-        "type": "quest",
-        "quest": "heart_of_deimos"
-      },
+      "blueprint": { "type": "quest", "quest": "heart_of_deimos" },
       "values": [
         { "part": "Neuroptics", "mission": "Tier 2, Mission 3", "node": "deimos_cd", "drop": "10%" },
         { "part": "Neuroptics", "mission": "Tier 2, Mission 2", "node": "deimos_cd", "drop": "7.5%" },
@@ -1190,35 +1306,32 @@
   },
   {
     "warframe": "Yareli",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/2/2f/YareliIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/YareliIcon272.png/64px-YareliIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/183963", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242789", "name": { "fr": "Tourbillon de Lame", "en": "Blade Vortex" } },
-        { "url": "https://overframe.gg/build/242790", "name": { "fr": "AoE", "en": "Nuke" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/yareli",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
     "parts": {
       "type": "dojo",
-      "blueprint": {
-        "type": "quest",
-        "quest": "waverider"
-      },
+      "blueprint": { "type": "quest", "quest": "waverider" },
       "lab": "ventkids"
     }
   },
   {
     "warframe": "Zephyr",
-    "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/1d/ZephyrIcon272.png",
+    "icon_url": "https://wiki.warframe.com/images/thumb/ZephyrIcon272.png/64px-ZephyrIcon272.png",
     "builds": {
       "warframe": [
-        { "url": "https://overframe.gg/build/68370", "name": { "fr": "Général", "en": "General" } },
-        { "url": "https://overframe.gg/build/242791", "name": { "fr": "Tornade", "en": "Tornado" } }
+        {
+          "url": "https://warframe.pandaahh.fr/fr/builds/zephyr",
+          "name": { "fr": "Build Recommandé", "en": "Recommended Build" }
+        }
       ]
     },
-    "parts": {
-      "type": "dojo",
-      "lab": "tenno"
-    }
+    "parts": { "type": "dojo", "lab": "tenno" }
   }
 ]
