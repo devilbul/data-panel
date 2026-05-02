@@ -63,7 +63,7 @@
   },
   {
     "warframe": "Atlas",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Atlas_Thumb.png/300px-Atlas_Thumb.png?91499",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/01/AtlasIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -105,7 +105,7 @@
   },
   {
     "warframe": "Banshee",
-    "icon_url": "https://wiki.warframe.com/images/Banshee_Thumb.png?1f779",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f8/BansheeIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -124,7 +124,7 @@
   },
   {
     "warframe": "Baruuk",
-    "icon_url": "https://wiki.warframe.com/images/Baruuk_Thumb.png?30a1c",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/b/b5/BaruukIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -168,7 +168,7 @@
   },
   {
     "warframe": "Caliban",
-    "icon_url": "https://wiki.warframe.com/images/Caliban_Thumb.png?c916e",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/55/CalibanIcon.png",
     "builds": {
       "warframe": [
         {
@@ -245,7 +245,7 @@
   },
   {
     "warframe": "Chroma",
-    "icon_url": "https://wiki.warframe.com/images/Chroma_Thumb.png?545f7",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/60/ChromaIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -284,7 +284,7 @@
   },
   {
     "warframe": "Citrine",
-    "icon_url": "https://wiki.warframe.com/images/Citrine_Thumb.png?89b01",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/82/CitrineIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -328,7 +328,7 @@
   },
   {
     "warframe": "Cyte-09",
-    "icon_url": "https://wiki.warframe.com/images/Cyte09_Thumb.png?b161b",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/2/26/Cyte-09Icon272.png",
     "builds": {
       "warframe": [
         {
@@ -366,7 +366,7 @@
   },
   {
     "warframe": "Dagath",
-    "icon_url": "https://wiki.warframe.com/images/Dagath_Thumb.png?4b231",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/34/DagathIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -429,7 +429,7 @@
   },
   {
     "warframe": "Ember",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Ember_Thumb.png/300px-Ember_Thumb.png?20dac",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/50/EmberIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -467,7 +467,7 @@
   },
   {
     "warframe": "Equinox",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Equinox_Thumb.png/300px-Equinox_Thumb.png?62279",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/7/7a/EquinoxIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -546,7 +546,7 @@
   },
   {
     "warframe": "Excalibur",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Excalibur_Thumb.png/300px-Excalibur_Thumb.png?97103",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/2/2c/ExcaliburIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -655,7 +655,7 @@
   },
   {
     "warframe": "Frost",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Frost_Thumb.png/300px-Frost_Thumb.png?32f8e",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/d/d0/FrostIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -696,7 +696,7 @@
   },
   {
     "warframe": "Gara",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Gara_Thumb.png/300px-Gara_Thumb.png?1c84b",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/84/GaraIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -798,7 +798,7 @@
   },
   {
     "warframe": "Garuda",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Garuda_Thumb.png/300px-Garuda_Thumb.png?0f856",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/GarudaIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -864,7 +864,7 @@
   },
   {
     "warframe": "Gauss",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Gauss_Thumb.png/300px-Gauss_Thumb.png?fb087",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/34/GaussIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -905,7 +905,7 @@
   },
   {
     "warframe": "Grendel",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Grendel_Thumb.png/300px-Grendel_Thumb.png?f4a0b",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/18/GrendelIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -949,7 +949,7 @@
   },
   {
     "warframe": "Gyre",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Gyre_Thumb.png/300px-Gyre_Thumb.png?f7a7f",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/6d/GyreIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -999,7 +999,7 @@
   },
   {
     "warframe": "Harrow",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Harrow_Thumb.png/300px-Harrow_Thumb.png?6b992",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/68/HarrowIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1059,7 +1059,7 @@
   },
   {
     "warframe": "Hildryn",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Hildryn_Thumb.png/300px-Hildryn_Thumb.png?f6fc3",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/19/HildrynIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1103,7 +1103,7 @@
   },
   {
     "warframe": "Hydroid",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Hydroid_Thumb.png/300px-Hydroid_Thumb.png?48637",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/HydroidIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1144,7 +1144,7 @@
   },
   {
     "warframe": "Inaros",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Inaros_Thumb.png/300px-Inaros_Thumb.png?f5b59",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/33/InarosIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1166,7 +1166,7 @@
   },
   {
     "warframe": "Ivara",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Ivara_Thumb.png/300px-Ivara_Thumb.png?3a915",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/4/4b/IvaraIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1240,7 +1240,7 @@
   },
   {
     "warframe": "Jade",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Jade_Thumb.png/300px-Jade_Thumb.png?532ac",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/5f/JadeIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1284,7 +1284,7 @@
   },
   {
     "warframe": "Khora",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Khora_Thumb.png/300px-Khora_Thumb.png?28137",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0f/KhoraIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1328,7 +1328,7 @@
   },
   {
     "warframe": "Koumei",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Koumei_Thumb.png/300px-Koumei_Thumb.png?2085e",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/fb/KoumeiIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1372,7 +1372,7 @@
   },
   {
     "warframe": "Kullervo",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Kullervo_Thumb.png/300px-Kullervo_Thumb.png?42424",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/c8/KullervoIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1420,7 +1420,7 @@
   },
   {
     "warframe": "Lavos",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Lavos_Thumb.png/300px-Lavos_Thumb.png?8996d",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f9/LavosIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1464,7 +1464,7 @@
   },
   {
     "warframe": "Limbo",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Limbo_Thumb.png/300px-Limbo_Thumb.png?5b51a",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/a/a7/LimboIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1489,7 +1489,7 @@
   },
   {
     "warframe": "Loki",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Loki_Thumb.png/300px-Loki_Thumb.png?35af7",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1530,7 +1530,7 @@
   },
   {
     "warframe": "Mag",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Mag_Thumb.png/300px-Mag_Thumb.png?3a64c",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/89/MagIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1571,7 +1571,7 @@
   },
   {
     "warframe": "Mesa",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Mesa_Thumb.png/300px-Mesa_Thumb.png?fbb32",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/08/MesaIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1612,7 +1612,7 @@
   },
   {
     "warframe": "Mirage",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Mirage_Thumb.png/300px-Mirage_Thumb.png?c6c07",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/d/d6/MirageIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1636,7 +1636,7 @@
   },
   {
     "warframe": "Nekros",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Nekros_Thumb.png/300px-Nekros_Thumb.png?0fa45",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8b/NekrosIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1677,7 +1677,7 @@
   },
   {
     "warframe": "Nezha",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Nezha_Thumb.png/300px-Nezha_Thumb.png?23673",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/e/ee/NezhaIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1696,7 +1696,7 @@
   },
   {
     "warframe": "Nidus",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Nidus_Thumb.png/300px-Nidus_Thumb.png?d4fb6",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/5/5e/NidusIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1866,8 +1866,8 @@
   },
   {
     "warframe": "Nova",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Nova_Thumb.png/300px-Nova_Thumb.png?a8d96",
-    "builds": {
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/4/40/NovaIcon272.png",
+   "builds": {
       "warframe": [
         {
           "url": "https://warframe.pandaahh.fr/fr/builds/nova",
@@ -1907,7 +1907,7 @@
   },
   {
     "warframe": "Nyx",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Nyx_Thumb.png/300px-Nyx_Thumb.png?00908",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/9/93/NyxIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1948,7 +1948,7 @@
   },
   {
     "warframe": "Oberon",
-    "icon_url": "https://wiki.warframe.com/images/thumb/Oberon_Thumb.png/300px-Oberon_Thumb.png?ea604",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/1c/OberonIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -1989,7 +1989,7 @@
   },
   {
     "warframe": "Octavia",
-    "icon_url": "https://wiki.warframe.com/images/Octavia_Thumb.png?aa13e",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/7/7f/OctaviaIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2075,7 +2075,7 @@
   },
   {
     "warframe": "Protea",
-    "icon_url": "https://wiki.warframe.com/images/Protea_Thumb.png?5aaec",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/63/ProteaIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2117,7 +2117,7 @@
   },
   {
     "warframe": "Qorvex",
-    "icon_url": "https://wiki.warframe.com/images/Qorvex_Thumb.png?815ba",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8f/QorvexIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2159,7 +2159,7 @@
   },
   {
     "warframe": "Revenant",
-    "icon_url": "https://wiki.warframe.com/images/Revenant_Thumb.png?fd975",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/02/RevenantIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2231,7 +2231,7 @@
   },
   {
     "warframe": "Rhino",
-    "icon_url": "https://wiki.warframe.com/images/Rhino_Thumb.png?ae954",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/8/8d/RhinoIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2272,7 +2272,7 @@
   },
   {
     "warframe": "Saryn",
-    "icon_url": "https://wiki.warframe.com/images/Saryn_Thumb.png?74464",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/2/23/SarynIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2313,8 +2313,8 @@
   },
   {
     "warframe": "Sevagoth",
-    "icon_url": "https://wiki.warframe.com/images/Sevagoth_Thumb.png?6863b",
-    "builds": {
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/0/0c/SevagothIcon272.png",
+     "builds": {
       "warframe": [
         {
           "url": "https://warframe.pandaahh.fr/fr/builds/sevagoth",
@@ -2355,7 +2355,7 @@
   },
   {
     "warframe": "Styanax",
-    "icon_url": "https://wiki.warframe.com/images/Styanax_Thumb.png?60e60",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/c/c3/StyanaxIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2495,7 +2495,7 @@
   },
   {
     "warframe": "Titania",
-    "icon_url": "https://wiki.warframe.com/images/Titania_Thumb.png?58f33",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/e/e8/TitaniaIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2516,7 +2516,7 @@
   },
   {
     "warframe": "Trinity",
-    "icon_url": "https://wiki.warframe.com/images/Trinity_Thumb.png?ee30d",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/f/f9/TrinityIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2595,7 +2595,7 @@
   },
   {
     "warframe": "Valkyr",
-    "icon_url": "https://wiki.warframe.com/images/Valkyr_Thumb.png?d633f",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/7/7d/ValkyrIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2636,7 +2636,7 @@
   },
   {
     "warframe": "Vauban",
-    "icon_url": "https://wiki.warframe.com/images/Vauban_Thumb.png?4d2ec",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/d/de/VaubanIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2657,7 +2657,7 @@
   },
   {
     "warframe": "Volt",
-    "icon_url": "https://wiki.warframe.com/images/Volt_Thumb.png?6e107",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/9/95/VoltIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2676,7 +2676,7 @@
   },
   {
     "warframe": "Voruna",
-    "icon_url": "https://wiki.warframe.com/images/Voruna_Thumb.png?3ec67",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/3/3c/VorunaIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2744,7 +2744,7 @@
   },
   {
     "warframe": "Wisp",
-    "icon_url": "https://wiki.warframe.com/images/Wisp_Thumb.png?e6cde",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/a/a3/WispIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2788,7 +2788,7 @@
   },
   {
     "warframe": "Wukong",
-    "icon_url": "https://wiki.warframe.com/images/Wukong_Thumb.png?abcbf",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/6/68/WukongIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2807,7 +2807,7 @@
   },
   {
     "warframe": "Xaku",
-    "icon_url": "https://wiki.warframe.com/images/Xaku_Thumb.png?eb470",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/b/be/XakuIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2879,7 +2879,7 @@
   },
   {
     "warframe": "Yareli",
-    "icon_url": "https://wiki.warframe.com/images/Yareli_Thumb.png?a9e7b",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/2/2f/YareliIcon272.png",
     "builds": {
       "warframe": [
         {
@@ -2902,7 +2902,7 @@
   },
   {
     "warframe": "Zephyr",
-    "icon_url": "https://wiki.warframe.com/images/Zephyr_Thumb.png?d427c",
+    "icon_url": "https://static.wikia.nocookie.net/warframe/images/1/1d/ZephyrIcon272.png",
     "builds": {
       "warframe": [
         {
