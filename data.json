@@ -8,7 +8,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/ash",
+          "url": "https://warframe.pandaahh.fr/fr/builds/ash?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -67,7 +67,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/atlas",
+          "url": "https://warframe.pandaahh.fr/fr/builds/atlas?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -109,7 +109,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/banshee",
+          "url": "https://warframe.pandaahh.fr/fr/builds/banshee?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -128,7 +128,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/baruuk",
+          "url": "https://warframe.pandaahh.fr/fr/builds/baruuk?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -172,7 +172,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/caliban",
+          "url": "https://warframe.pandaahh.fr/fr/builds/caliban?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -249,7 +249,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/chroma",
+          "url": "https://warframe.pandaahh.fr/fr/builds/chroma?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -288,7 +288,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/citrine",
+          "url": "https://warframe.pandaahh.fr/fr/builds/citrine?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -332,7 +332,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/cyte-09",
+          "url": "https://warframe.pandaahh.fr/fr/builds/cyte-09?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -370,7 +370,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/dagath",
+          "url": "https://warframe.pandaahh.fr/fr/builds/dagath?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -389,7 +389,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/dante",
+          "url": "https://warframe.pandaahh.fr/fr/builds/dante?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -433,7 +433,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/ember",
+          "url": "https://warframe.pandaahh.fr/fr/builds/ember?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -471,7 +471,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/equinox",
+          "url": "https://warframe.pandaahh.fr/fr/builds/equinox?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -550,7 +550,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/excalibur",
+          "url": "https://warframe.pandaahh.fr/fr/builds/excalibur?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -591,7 +591,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/follie",
+          "url": "https://warframe.pandaahh.fr/fr/builds/follie?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -659,7 +659,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/frost",
+          "url": "https://warframe.pandaahh.fr/fr/builds/frost?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -700,7 +700,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/gara",
+          "url": "https://warframe.pandaahh.fr/fr/builds/gara?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -802,7 +802,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/garuda",
+          "url": "https://warframe.pandaahh.fr/fr/builds/garuda?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -868,7 +868,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/gauss",
+          "url": "https://warframe.pandaahh.fr/fr/builds/gauss?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -909,7 +909,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/grendel",
+          "url": "https://warframe.pandaahh.fr/fr/builds/grendel?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -953,7 +953,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/gyre",
+          "url": "https://warframe.pandaahh.fr/fr/builds/gyre?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1003,7 +1003,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/harrow",
+          "url": "https://warframe.pandaahh.fr/fr/builds/harrow?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1063,7 +1063,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/hildryn",
+          "url": "https://warframe.pandaahh.fr/fr/builds/hildryn?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1107,7 +1107,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/hydroid",
+          "url": "https://warframe.pandaahh.fr/fr/builds/hydroid?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1148,7 +1148,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/inaros",
+          "url": "https://warframe.pandaahh.fr/fr/builds/inaros?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1170,7 +1170,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/ivara",
+          "url": "https://warframe.pandaahh.fr/fr/builds/ivara?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1244,7 +1244,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/jade",
+          "url": "https://warframe.pandaahh.fr/fr/builds/jade?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1288,7 +1288,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/khora",
+          "url": "https://warframe.pandaahh.fr/fr/builds/khora?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1332,7 +1332,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/koumei",
+          "url": "https://warframe.pandaahh.fr/fr/builds/koumei?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1376,7 +1376,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/kullervo",
+          "url": "https://warframe.pandaahh.fr/fr/builds/kullervo?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1424,7 +1424,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/lavos",
+          "url": "https://warframe.pandaahh.fr/fr/builds/lavos?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1468,7 +1468,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/limbo",
+          "url": "https://warframe.pandaahh.fr/fr/builds/limbo?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1493,7 +1493,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/loki",
+          "url": "https://warframe.pandaahh.fr/fr/builds/loki?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1534,7 +1534,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/mag",
+          "url": "https://warframe.pandaahh.fr/fr/builds/mag?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1575,7 +1575,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/mesa",
+          "url": "https://warframe.pandaahh.fr/fr/builds/mesa?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1616,7 +1616,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/mirage",
+          "url": "https://warframe.pandaahh.fr/fr/builds/mirage?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1640,7 +1640,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/nekros",
+          "url": "https://warframe.pandaahh.fr/fr/builds/nekros?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1681,7 +1681,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/nezha",
+          "url": "https://warframe.pandaahh.fr/fr/builds/nezha?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1700,7 +1700,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/nidus",
+          "url": "https://warframe.pandaahh.fr/fr/builds/nidus?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1742,7 +1742,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/nokko",
+          "url": "https://warframe.pandaahh.fr/fr/builds/nokko?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1870,7 +1870,7 @@
    "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/nova",
+          "url": "https://warframe.pandaahh.fr/fr/builds/nova?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1911,7 +1911,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/nyx",
+          "url": "https://warframe.pandaahh.fr/fr/builds/nyx?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1952,7 +1952,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/oberon",
+          "url": "https://warframe.pandaahh.fr/fr/builds/oberon?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -1993,7 +1993,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/octavia",
+          "url": "https://warframe.pandaahh.fr/fr/builds/octavia?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2035,7 +2035,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/oraxia",
+          "url": "https://warframe.pandaahh.fr/fr/builds/oraxia?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2079,7 +2079,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/protea",
+          "url": "https://warframe.pandaahh.fr/fr/builds/protea?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2121,7 +2121,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/qorvex",
+          "url": "https://warframe.pandaahh.fr/fr/builds/qorvex?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2163,7 +2163,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/revenant",
+          "url": "https://warframe.pandaahh.fr/fr/builds/revenant?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2235,7 +2235,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/rhino",
+          "url": "https://warframe.pandaahh.fr/fr/builds/rhino?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2276,7 +2276,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/saryn",
+          "url": "https://warframe.pandaahh.fr/fr/builds/saryn?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2317,7 +2317,7 @@
      "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/sevagoth",
+          "url": "https://warframe.pandaahh.fr/fr/builds/sevagoth?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2359,7 +2359,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/styanax",
+          "url": "https://warframe.pandaahh.fr/fr/builds/styanax?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2407,7 +2407,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/temple",
+          "url": "https://warframe.pandaahh.fr/fr/builds/temple?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2499,7 +2499,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/titania",
+          "url": "https://warframe.pandaahh.fr/fr/builds/titania?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2520,7 +2520,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/trinity",
+          "url": "https://warframe.pandaahh.fr/fr/builds/trinity?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2561,7 +2561,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/uriel",
+          "url": "https://warframe.pandaahh.fr/fr/builds/uriel?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2599,7 +2599,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/valkyr",
+          "url": "https://warframe.pandaahh.fr/fr/builds/valkyr?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2640,7 +2640,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/vauban",
+          "url": "https://warframe.pandaahh.fr/fr/builds/vauban?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2661,7 +2661,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/volt",
+          "url": "https://warframe.pandaahh.fr/fr/builds/volt?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2680,7 +2680,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/voruna",
+          "url": "https://warframe.pandaahh.fr/fr/builds/voruna?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2748,7 +2748,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/wisp",
+          "url": "https://warframe.pandaahh.fr/fr/builds/wisp?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2792,7 +2792,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/wukong",
+          "url": "https://warframe.pandaahh.fr/fr/builds/wukong?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2811,7 +2811,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/xaku",
+          "url": "https://warframe.pandaahh.fr/fr/builds/xaku?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2883,7 +2883,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/yareli",
+          "url": "https://warframe.pandaahh.fr/fr/builds/yareli?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
@@ -2906,7 +2906,7 @@
     "builds": {
       "warframe": [
         {
-          "url": "https://warframe.pandaahh.fr/fr/builds/zephyr",
+          "url": "https://warframe.pandaahh.fr/fr/builds/zephyr?fromTwitch",
           "name": {
             "fr": "Build Recommandé",
             "en": "Recommended Build"
